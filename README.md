@@ -1,5 +1,5 @@
 # Posters
 
-![](EdmundsS_InFORM_2020.pptx)
+![](EdmundsS_InFORM_2020.pdf)
 
-1[](EdmundsS_CSTE_2017.pptx)
+![](EdmundsS_CSTE_2017.pdf)
